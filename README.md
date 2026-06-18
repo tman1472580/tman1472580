@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://tman1472580.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-0c0d0c?style=flat-square&logo=googlechrome&logoColor=b8ff5c"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/tanzim-islam-mohammad-a0b0301aa"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0c0d0c?style=flat-square&logo=linkedin&logoColor=b8ff5c"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/tanzim-m-a0b0301aa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0c0d0c?style=flat-square&logo=linkedin&logoColor=b8ff5c"></a>&nbsp;
   <a href="mailto:school147.ti@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0c0d0c?style=flat-square&logo=gmail&logoColor=b8ff5c"></a>&nbsp;
   <a href="https://github.com/tman1472580"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-0c0d0c?style=flat-square&logo=github&logoColor=b8ff5c"></a>
 </p>
@@ -95,7 +95,7 @@ AI/ML systems &nbsp;·&nbsp; Fintech infrastructure &nbsp;·&nbsp; Developer too
 ### Elsewhere
 
 - Site &rarr; [tman1472580.github.io](https://tman1472580.github.io)
-- LinkedIn &rarr; [tanzim-islam-mohammad](https://www.linkedin.com/in/tanzim-islam-mohammad-a0b0301aa)
+- LinkedIn &rarr; [tanzim-m](https://www.linkedin.com/in/tanzim-m-a0b0301aa/)
 - Email &rarr; [school147.ti@gmail.com](mailto:school147.ti@gmail.com)
 
 ---
