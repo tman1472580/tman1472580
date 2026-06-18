@@ -1,4 +1,4 @@
-<h1 align="center">Tanzim Islam</h1>
+<h1 align="center">Tanzim Islam Mohammad</h1>
 
 <p align="center">
   <a href="https://github.com/tman1472580">
