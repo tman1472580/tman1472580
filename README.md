@@ -20,9 +20,13 @@ Student developer based in the UK. I'm drawn to software that earns its keep —
 
 ### Currently building
 
+> ### **[Reveal](https://github.com/tman1472580/Reveal)** &nbsp;·&nbsp; *active* &nbsp;·&nbsp; [demo](https://github.com/tman1472580/Reveal)
+>
+> Multimodal real-time fact-checking overlay. A transparent HUD that listens to speech, verifies claims against the web, and surfaces falsehoods as clean white cards — all without leaving the video you're watching. Tauri + React + Rust + OpenAI Realtime API + SnapTrade.
+>
 > ### **[Orrerys](https://github.com/tman1472580/Orrerys)** &nbsp;·&nbsp; *in progress* &nbsp;·&nbsp; [www.orrerys.com](https://www.orrerys.com)
 >
-> A modern investment tracking and portfolio platform aimed at new and young investors. React + TypeScript front-end, Python FastAPI backend, Supabase auth and data, wired to real market data via Alpha Vantage and Finnhub.
+> A modern investment tracking and portfolio platform aimed at new and young investors. React + TypeScript front-end, Python FastAPI backend, Supabase auth and data, wired to real market data via Alpha Vantage, Finnhub, and SnapTrade brokerage integration.
 
 ### Selected projects
 
